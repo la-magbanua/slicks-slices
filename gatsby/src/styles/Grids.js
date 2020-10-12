@@ -17,7 +17,6 @@ export const ItemStyles = styled.div`
   position: relative;
 
   img {
-    border: 1px solid red;
     height: auto;
     font-size: 0;
   }
